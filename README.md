@@ -24,3 +24,4 @@ Windows 11 x64 (Build 22000.376)
 - Dart SDK 2.15.1
 - Strawberry Perl v5.32.1
 - Rustc 1.56.1
+- GHC 9.2.1
