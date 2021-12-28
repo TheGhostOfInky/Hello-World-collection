@@ -1,2 +1,4 @@
-for i=0,1.8e308,1
+i = 0
+while true
     print "Hello world "..i
+    i += 1

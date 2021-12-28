@@ -1,5 +1,6 @@
 #include <stdio.h>
-int main() {
+
+int main(void) {
     for(int i=0;;i++){
         printf("Hello World %d\n",i);
     }

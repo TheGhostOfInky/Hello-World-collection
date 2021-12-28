@@ -1,5 +1,7 @@
 fun main(){
-    for(i in 0..2147483647){
+    var i = 0
+    while (true){
         println("Hello World " + i)
+        i++
     }
 }

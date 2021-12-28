@@ -1,3 +1,3 @@
-for(i=0;true;i++){
+for(i=0;;i++){
     console.log(`Hello World ${i}`)
 }

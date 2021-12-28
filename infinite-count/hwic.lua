@@ -1,4 +1,6 @@
-for i=0,1.8e308,1
+local i = 0
+while true
 do
     print("Hello world "..i)
+    i = i + 1
 end

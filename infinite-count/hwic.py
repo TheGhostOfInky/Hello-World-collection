@@ -1,2 +1,4 @@
-for i in range(0,9223372036854775807,1):
+i = 0
+while True:
     print(f"Hello world {i}")
+    i += 1
