@@ -1,4 +1,3 @@
 i = 0
 loop
-    console.log "Hello World #{i}"
-    i++
+    console.log "Hello World #{++i}"
