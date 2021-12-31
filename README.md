@@ -15,6 +15,7 @@ Windows 11 x64 (Build 22000.376)
 - .NET SDK 6.0.101
 - Java Develpment Kit 17.0.1
     - Kotlinc 1.5.31
+    - Clojure CLI 1.10.3.1029
 - Moonscript 0.5.0
 - Luvit 2.18.0 (Lua)
 - PowerShell 5.1.22000.376
