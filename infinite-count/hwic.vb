@@ -1,7 +1,5 @@
-Imports System
-
-Module Program
-    Sub Main(args As String())
+Module i
+    Sub Main()
         Dim i As Integer = 0
         Do
             Console.WriteLine("Hello World " & i)

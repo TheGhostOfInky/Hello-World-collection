@@ -1,9 +1,7 @@
-Imports System
-
-Module Program
-    Sub Main(args As String())
-        While true
+Module i
+    Sub Main()
+        Do
             Console.WriteLine("Hello World")
-        End While  
+        Loop While true
     End Sub
 End Module
