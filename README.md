@@ -26,3 +26,4 @@ Windows 11 x64 (Build 22000.376)
 - Strawberry Perl v5.32.1
 - Rustc 1.56.1
 - GHC 9.2.1
+- Rakudo v2021.12. (Raku v6.d)
