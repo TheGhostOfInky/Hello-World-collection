@@ -20,6 +20,7 @@ Windows 11 x64 (Build 22000.376)
 - Luvit 2.18.0 (Lua)
 - PowerShell 5.1.22000.376
 - Bash 5.1.0(1)-release (Running under Fedora Remix 35 in WSL2)
+- Fish shell 3.3.1 (Running under Fedora Remix 35 in WSL2)
 - Ruby 3.0.2p107
 - Go 1.17.5
 - Dart SDK 2.15.1
