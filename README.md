@@ -31,3 +31,7 @@ Windows 11 x64 (Build 22000.376)
 - Scala 3.1.2-RC1
 - Swift version 5.52
 - GNUstep System 0.30.0 + GNUstep Core 0.35.0 + mingw32-gcc 6.3.0
+- GNAT v11.2.1
+- GDC v11.2.1
+- GFortran v11.2.1
+- Free Pascal Compiler v3.2.2
