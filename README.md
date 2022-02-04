@@ -29,9 +29,12 @@ Windows 11 x64 (Build 22000.376)
 - GHC 9.2.1
 - Rakudo v2021.12. (Raku v6.d)
 - Scala 3.1.2-RC1
-- Swift version 5.52
+- Swift 5.52
 - GNUstep System 0.30.0 + GNUstep Core 0.35.0 + mingw32-gcc 6.3.0
 - GNAT v11.2.1
 - GDC v11.2.1
 - GFortran v11.2.1
 - Free Pascal Compiler v3.2.2
+- Groovy 4.0.0
+- Julia 1.7.1
+- R 4.1.2
