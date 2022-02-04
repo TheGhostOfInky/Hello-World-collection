@@ -16,6 +16,7 @@ Windows 11 x64 (Build 22000.376)
 - Java Develpment Kit 17.0.1
     - Kotlinc 1.5.31
     - Clojure CLI 1.10.3.1029
+    - Groovy 4.0.0
 - Moonscript 0.5.0
 - Luvit 2.18.0 (Lua)
 - PowerShell 5.1.22000.376
@@ -35,6 +36,5 @@ Windows 11 x64 (Build 22000.376)
 - GDC v11.2.1
 - GFortran v11.2.1
 - Free Pascal Compiler v3.2.2
-- Groovy 4.0.0
 - Julia 1.7.1
 - R 4.1.2
