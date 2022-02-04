@@ -16,6 +16,7 @@ Windows 11 x64 (Build 22000.376)
 - Java Develpment Kit 17.0.1
     - Kotlinc 1.5.31
     - Clojure CLI 1.10.3.1029
+    - Scala 3.1.2-RC1
     - Groovy 4.0.0
 - Moonscript 0.5.0
 - Luvit 2.18.0 (Lua)
@@ -29,9 +30,8 @@ Windows 11 x64 (Build 22000.376)
 - Rustc 1.56.1
 - GHC 9.2.1
 - Rakudo v2021.12. (Raku v6.d)
-- Scala 3.1.2-RC1
 - Swift 5.52
-- GNUstep System 0.30.0 + GNUstep Core 0.35.0 + mingw32-gcc 6.3.0
+- GNUstep System 0.30.0 + GNUstep Core 0.35.0 + mingw32-gcc 6.3.0 (Objective-C)
 - GNAT v11.2.1
 - GDC v11.2.1
 - GFortran v11.2.1
