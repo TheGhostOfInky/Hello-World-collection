@@ -41,3 +41,4 @@ Fedora Remix 35 (Running under WSL2)
 - GDC v11.2.1
 - GFortran v11.2.1
 - Free Pascal Compiler v3.2.2
+- [HolyCC2](https://github.com/nrootconauto/HolyCC2) (HolyC)
