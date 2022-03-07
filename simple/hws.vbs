@@ -1,0 +1,1 @@
+Wscript.echo("test")

@@ -33,6 +33,7 @@ Windows 11 x64 (Build 22000.527)
 - Julia 1.7.1
 - R 4.1.2
 - Nim 1.6.4
+- Windows Script Host Version 5.812
 
 Fedora Remix 35 (Running under WSL2)
 - Bash 5.1.0(1)-release 
